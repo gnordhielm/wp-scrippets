@@ -1,11 +1,9 @@
 <?php
 /****************************************************************************
-Plugin Name: WP Scrippets
-Plugin URI: http://scrippets.org
+Plugin Name: WP Scrippets [Fork]
 Description: Modifies screenplay format text for inclusion in web pages. Based on the scrippet concept and original code by <a href="http://johnaugust.com">John August</a>.
-Author: Nima Yousefi
-Author URI: http://equinox-of-insanity.com
-Version: 1.5.1
+Author: Nima Yousefi, Gus Nordhielm
+Version: 1.5.2
 
 This plugin uses the function found in the file "scrippetize.php" to create the
 formatted HTML.
