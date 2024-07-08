@@ -186,7 +186,7 @@ function scrippets_save_options() {
     update_option('scrippet_options', $scrippet_options);
 }
 
-if ($_POST['action'] == 'save_options'){
+if (isset($_POST['action']) && $_POST['action'] == 'save_options'){
 	scrippets_save_options();
 }
 
